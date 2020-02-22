@@ -14,7 +14,7 @@ A simple plugin to show the total reading time at the end of the post content.
 == Description ==
 It is a simple plugin which will show the total reading time of a post.It will calculate the total reading time of a post in the measure of 200 words per minutes.
 
-It is a totally open source project.Here is the <a href="https://themefic.com/modules/beaf/" target="_blank">Github link</a>
+It is a totally open source project.Here is the <a href="https://github.com/kamrul07/Total-Reading-Time-of-WordPress-post" target="_blank">Github link</a>
 
 
 ### How It works:

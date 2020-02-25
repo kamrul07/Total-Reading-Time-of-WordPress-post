@@ -1,4 +1,4 @@
-=== Total Reading Time of wordPress Post ===
+=== Total Reading Time of WP Post ===
 Contributors:kamrul0424
 Tags: total-reading-time,wp-posts
 Requires at least: 4.2
